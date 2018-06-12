@@ -6,7 +6,7 @@ Purpose:
 
 This is a small program to push properties/metric data to a "resource/set of resources" in vRealize Operations Manager using python client and REST API. 
 
-For details of the purpose of the script please check http://vtechguru.com/
+For details of the purpose of the script please check http://vtechguru.com/2017/06/how-to-push-custom-data-in-vrealize-operations-manager.html 
 
 What is included:
 
